@@ -24,7 +24,7 @@ rss: rss
 
 kramdown:
   syntax_highlighter_opts:
-    disable: false
+    disable: true
     
 plugins:
   - jekyll-feed
@@ -33,6 +33,10 @@ plugins:
 titles_from_headings:
   strip_title: true
   collections: true
+
+baseurl: "/blog"
+production_url: https://www.ronikb.ml/blog/
+BASE_PATH: https://www.ronikb.ml/blog/
 
 defaults:
   - scope:
