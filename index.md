@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+I am an Undergraduate majoring in Information Technology. I am passionate about web development, and I love how the field is almost all-encompassing. I enjoy learning, and I am always curious about things. Being a detail-oriented person, I keep my goals and tasks organized to maintain productivity.
 
-Maybe say a some things about yourself.
+Nowadays, I am spending most of my time experimenting with Django and OpenCV. Also, I read Tech articles, watch movies and play games in my free time.
 
-Or maybe what you plan to blog about.
