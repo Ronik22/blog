@@ -35,8 +35,6 @@ titles_from_headings:
   collections: true
 
 baseurl: "/blog"
-production_url: https://www.ronikb.ml/blog/
-BASE_PATH: https://www.ronikb.ml/blog/
 
 defaults:
   - scope:
