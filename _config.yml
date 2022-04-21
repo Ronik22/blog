@@ -34,7 +34,12 @@ titles_from_headings:
   strip_title: true
   collections: true
 
-baseurl: "/blog"
+# Add a search button to the navbar
+post_search: true
+
+url: https://ronikb.ml
+
+baseurl: /blog
 
 defaults:
   - scope:
