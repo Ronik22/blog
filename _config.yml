@@ -40,7 +40,7 @@ BASE_PATH: https://www.ronikb.ml/blog/
 
 defaults:
   - scope:
-      path: ""
+      path: "/blog"
       type: post
     values:
       tags: Other
